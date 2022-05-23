@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/osu-cs493-sp22/offline-work#readme",
   "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs-node": "^3.18.0",
+    "amqplib": "^0.9.1",
     "express": "^4.18.1",
     "mongodb": "^4.6.0",
     "multer": "^1.4.4"
